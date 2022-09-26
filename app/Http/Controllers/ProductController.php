@@ -3,9 +3,9 @@
 namespace App\Http\Controllers;
 
 use App\Models\Product;
-use Illuminate\Foundation\Application;
-use Illuminate\View\Factory;
 use Illuminate\View\View;
+use Illuminate\View\Factory;
+use Illuminate\Foundation\Application;
 
 class ProductController extends Controller
 {
